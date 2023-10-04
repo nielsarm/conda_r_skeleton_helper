@@ -1,4 +1,3 @@
-r-tilegramsr
-r-udunits2
-r-usethis
-r-pwr
+r-survey
+r-foreign
+r-dplyr
